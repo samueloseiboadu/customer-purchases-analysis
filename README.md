@@ -8,7 +8,7 @@ The goal of this analysis is to support the development of successful marketing 
 
 ![Customer Purchases Analysis](https://github.com/user-attachments/assets/7df1b3f9-3bdf-499e-929a-f44b2ce6e97c)
 
-## GENDER-BASED PURCHASING BEHAVIOUR
+### GENDER-BASED PURCHASING BEHAVIOUR
 • Men outspend women in actual purchases across all product categories (clothing, footwear, and outerwear), despite women making up the majority of the customer base (68%). 
 • This suggests that although a greater percentage of clients may be females, men make a greater contribution to the revenue through their purchasing behaviour.
 
@@ -17,7 +17,7 @@ The goal of this analysis is to support the development of successful marketing 
 • Also, examining particular obstacles to female subscription adoption may reveal ways to improve engagement, such as tailored deals, discounts, or advertising efforts that are more focused on women.
 
 
-## SEASONAL PURCHASES AND TRENDS
+### SEASONAL PURCHASES AND TRENDS
 • Fall and Spring have the biggest purchase volumes. However, sales are stable across all seasons, indicating year-round demand.
 
 ### Recommendation: 
@@ -25,7 +25,7 @@ The goal of this analysis is to support the development of successful marketing 
 • During off-peak seasons, use discounts or bundle deals to keep sales moving.
 
 
-## LOCATIONS WITH STRONG CUSTOMER BASDE AND HIGH PURCHASES
+### LOCATIONS WITH STRONG CUSTOMER BASDE AND HIGH PURCHASES
 • The states with the highest client base and buying volume are Montana, California, and Illinois.
 
 ### Recommendation: 
@@ -33,7 +33,7 @@ The goal of this analysis is to support the development of successful marketing 
 • In other states with moderate activity, use targeted marketing or promotions to boost market penetration.
 
 
-## CUSTOMER SPENDING TREND OVER TIME
+### CUSTOMER SPENDING TREND OVER TIME
 • Customer spending rises quarterly, indicating that customers favor planned purchases over impulsive ones.
 
 ### Recommendation:
@@ -41,7 +41,7 @@ The goal of this analysis is to support the development of successful marketing 
 • Consider offering quarterly discounts or early access to new collections.
 
 
-## IMPACT OF PROMO CODE USAGE
+### IMPACT OF PROMO CODE USAGE
 • 99,411 instances of promo codes have been used, demonstrating their efficacy in increasing sales.
 
 ### Recommendation:
@@ -49,14 +49,14 @@ The goal of this analysis is to support the development of successful marketing 
 • To promote encourage frequent purchases from customers, provide exclusive codes to loyal clients.
 
 
-## PREFERED PAYMENT METHODS
+### PREFERED PAYMENT METHODS
 •	The dashboard shows multiple payment options, suggesting flexibility for customers. However, no clear dominant method is seen.
 
 ### Recommendation:
 • Promote online purchases with cashback incentives.
 
 
-## SHIPPING PREFERENCES
+### SHIPPING PREFERENCES
 • A variety of delivery choices meet the needs of various clients, which probably raises satisfaction levels overall.
 
 ### Recommendtion: 
@@ -64,7 +64,7 @@ The goal of this analysis is to support the development of successful marketing 
 • Simplify next-day and expedited shipping options to attract last-minute customers.
 
 
-## SUBCRIPTION ANALYSIS
+### SUBCRIPTION ANALYSIS
 • The fact that all 1,053 subscribers are men indicates that the subscription model is not attracting any female clients at this time. 
 • The gender gap in subscriptions suggests an unexplored market among female consumers, who now make up the bulk (68%) of the clientele.
 
@@ -73,7 +73,7 @@ The goal of this analysis is to support the development of successful marketing 
 • Additionally, highlighting the value of subscribing through social media campaigns or in-store promotions could further drive engagement..
 
 
-## AVERAGE RATING ANALYSIS
+### AVERAGE RATING ANALYSIS
 • The average customer rating stands at 3.75, which is moderate. This suggests that while customers may be generally satisfied, there is room for improvement in customer experience or product offerings.
 
 ### Recommendation:
@@ -82,7 +82,7 @@ The goal of this analysis is to support the development of successful marketing 
 
 
 
-## Plan of Strategic Action
+### PLAN OF STRATEGIC ACTION
 • Invest in data-driven marketing tactics for demographics and geographic areas that perform well.
 • Improve client retention initiatives like referral bonuses and loyalty prizes.
 • Optimize quarterly and seasonal marketing to correspond with consumer buying patterns.
